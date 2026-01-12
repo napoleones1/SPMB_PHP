@@ -46,14 +46,14 @@ spmb/
 ## ⚙️ Cara Menjalankan Project
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/spmb.git
+   git clone https://github.com/username/spmb_PHP.git
 2. Pindahkan folder ke direktori htdocs
    ```bash
    C:\xampp\htdocs\
 4. Jalankan Apache melalui XAMPP
 5. Akses melalui browser
    ```bash
-   http://localhost/spmb
+   http://localhost/spmb_PHP
 
 ## 🔐 Akun Login (Contoh)
 - Username : admin
